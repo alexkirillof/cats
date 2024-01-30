@@ -1,0 +1,15 @@
+.title {
+  margin-bottom: 15px;
+}
+
+.emptyImg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.emptyImg img {
+  max-width: 45%;
+  margin-bottom: 20px;
+}
